@@ -49,6 +49,6 @@ Build a flow graph in NetworkX for each team and the use the max flow algorithm 
 Assignment: The Dining Philosopher's Problem
 Implemented Python's threading and locking primitives to simulate the Dining Philosophers concurrency problemm where five philosopher threads must coordinate shared fork resources without deadlock.
 
-# Module 14 - Collinearity (Final Exam)
 # Module 14 - Quantum Computing Simulator (Final Exam)
+Assignment: This assignment simulates quantum bits (qubits) using object-oriented programming,NumPy arrays, and inheritance. We modeled qubits as 2x1 vectors and quantum gates as 2x2 matrices, applying them to demonstrate superposition and probabilistic measurement.
 
