@@ -1,6 +1,9 @@
 # Python 
 This repository contains Python assignments organized by module. Each module focuses on a core programming concept, with a hands-on project to apply the material.
 
+# Technologies Used
+Python | Flask | REST APIs | NumPy | NetworkX | CircleCI | CI/CD | Threading | OOP | RAG/LLM
+
 # Module 2 – Types, Operators, and Expressions
 Assignment: Interest Rate Calculator
 Explores Python's fundamental data types (integers, floats, strings, booleans) along with arithmetic, comparison, and logical operators. The interest rate assignment puts these building blocks to work by computing simple and/or compound interest based on user input of principal, rate, and time values.
